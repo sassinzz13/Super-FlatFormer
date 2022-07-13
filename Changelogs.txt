@@ -1,3 +1,4 @@
 Ver 0.0.0
 
+Window was made
 Added alot of stuffs like entities and sprites 
