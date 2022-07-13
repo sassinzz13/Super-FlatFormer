@@ -1,0 +1,8 @@
+Todo
+
+Make a window(check)
+Make a gameloop(check)
+Add Textures(Check)
+Frame limiter(check)
+Add controls()
+Add Collisions()
