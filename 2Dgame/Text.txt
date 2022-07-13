@@ -1,6 +1,0 @@
-Todo
-
-Make a window(check)
-Make a gameloop(check)
-Add Textures and controls()
-Add Collisions()
